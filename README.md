@@ -2,7 +2,7 @@
 Steven Gore
 
 # Description
-Employee directory for a fictitious company. You can click on on an employee card and a modal will open containing more information for the employee.
+Employee directory for a fictitious company. Employee data comes from (RANDOM USER GENERATOR) a free, open-source API for generating random user data. Like Lorem Ipsum, but for people. called You can click on on an employee card and a modal will open containing more information for the employee.
 
 # Installation
 	•	Download or clone from Github
@@ -10,6 +10,7 @@ Employee directory for a fictitious company. You can click on on an employee car
 
 # Technologies Used
 	•	ES6
+	•	Fetch API
 	•	Array methods
 	•	DOM manipulation
 	•	DOM event handlers
