@@ -1,20 +1,20 @@
-Description
+# Author
 Steven Gore
 
-Description
+# Description
 Employee directory for a fictitious company. You can click on on an employee card and a modal will open containing more information for the employee.
 
-Installation
+# Installation
 	•	Download or clone from Github
 	•	Open index.html with your favorite browser
 
-Technologies Used
+# Technologies Used
 	•	ES6
 	•	Array methods
 	•	DOM manipulation
 	•	DOM event handlers
 
-Extra Features
+# Extra Features
 	- Built in search which allows you to filter by employee first and or last name.
 	- Built in pagination for the modal allowing for navigating between employees while the modal is open.
 	- CSS animation for all cards when DOM is first loaded and when search is performed.
