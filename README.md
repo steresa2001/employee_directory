@@ -18,6 +18,7 @@ Employee directory for a fictitious company. Employee data comes from (RANDOM US
 # Extra Features
 	- Built in search which allows you to filter by employee first and or last name.
 	- Built in pagination for the modal allowing for navigating between employees while the modal is open.
+	- Changed the CSS default styling for the background, modal pagination, and modal employee thumbnail.
 	- CSS animation for all cards when DOM is first loaded and when search is performed.
 	- CSS animation for search input on both focus and blur.
 	- Helpful message appears if no search results are found.
